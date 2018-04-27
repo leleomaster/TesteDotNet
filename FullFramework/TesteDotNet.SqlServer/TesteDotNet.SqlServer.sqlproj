@@ -66,7 +66,10 @@
     <Build Include="SP_S_ITEM_POR_ID.sql" />
     <Build Include="SP_U_ITEM.sql" />
     <Build Include="3-ITEM.sql" />
-    <Build Include="1-TesteDotNetMVC.sql" />
     <Build Include="2-CATEGORIA.sql" />
+    <Build Include="SP_S_ITEM_BUSCAR_TODOS.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="1-Database_TesteDotNetMVC.sql" />
   </ItemGroup>
 </Project>

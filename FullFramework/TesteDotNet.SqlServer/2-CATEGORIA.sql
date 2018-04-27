@@ -1,13 +1,4 @@
-﻿USE [TesteDotNetMVC]
-GO
-
-/****** Object:  Table [dbo].[CATEGORIA]    Script Date: 4/25/2018 11:39:42 PM ******/
-SET ANSI_NULLS ON
-GO
-
-SET QUOTED_IDENTIFIER ON
-GO
-
+﻿
 CREATE TABLE [dbo].[CATEGORIA](
 	[ID] [int] IDENTITY(1,1) NOT NULL,
 	[NOME] [varchar](20) NOT NULL,
